@@ -1,5 +1,5 @@
 # 1-Thread_synchrone
-Voici un aperçu de l'application Java TTThread :
+Voici un aperçu de l'application Java Thread_synchrone :
 ![Screenshot](images/screenshot.png)
 
 ## Tâches à effectuer
